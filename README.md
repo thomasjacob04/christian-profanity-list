@@ -3,12 +3,12 @@
 
 # 🤬 christian-profanity-list
 
-. Biblical demons and evil figures (Satan, Lucifer, Beelzebub, etc.)
-. Blasphemy-related terms
-. Seven deadly sins
-. Occult and witchcraft terms
-. Religious insults and heresies
-. Terms for immoral behavior from a Christian perspective
+1. Biblical demons and evil figures (Satan, Lucifer, Beelzebub, etc.)
+2. Blasphemy-related terms
+3. Seven deadly sins
+4. Occult and witchcraft terms
+5. Religious insults and heresies
+6. Terms for immoral behavior from a Christian perspective
 
 ### Open-source list of christian profanity
 
